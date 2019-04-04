@@ -1,7 +1,7 @@
 /*
 ** Author - Yogesh Janghel
 */
-package basicexample;
+package basicexample.one;
 
 public class Student {
 
